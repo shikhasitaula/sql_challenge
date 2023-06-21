@@ -11,8 +11,9 @@ This challenge contains analysis on people whom the company employed during the 
    In this analysis portion, we mainly focused on manipulating the data in different ways using variety of  SQL functions like join and different aggregations to analysis the empoloyee information. 
     
 We have saved the schemas, image file of ERD, resources for the analysis, and queries for the data analysis part. They are saved as:
-1. [README.md](): Provides orientation for this challenge.
-2. [data_analysis_queries.sql]() : It contains logic for the data manipulation. 
-3. [schema.sql]() : It holds the framework for table schemas. 
-4. [ERD for analysis.png]() : It carries ERD images, one from the Pgadmin itself and another form the OuickDBD. 
+1. [README.md]("https://github.com/shikhasitaula/sql_challenge/blob/main/README.md"): Provides orientation for this challenge.
+2. [data_analysis_queries.sql]("https://github.com/shikhasitaula/sql_challenge/blob/main/data_analysis_queries.sql") : It contains logic for the data manipulation. 
+3. [schema.sql]("https://github.com/shikhasitaula/sql_challenge/blob/main/schema.sql") : It holds the framework for table schemas. 
+4. [ERD for analysis.png]("https://github.com/shikhasitaula/sql_challenge/tree/main/ERD%20for%20analysis.png") : It carries ERD images, one from the Pgadmin itself and another form the OuickDBD. 
+5. [Resources]("https://github.com/shikhasitaula/sql_challenge/tree/main/Resources"): It contains the csv files that we used for this chanllenge.
 
