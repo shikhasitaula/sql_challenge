@@ -4,10 +4,10 @@ This challenge contains analysis on people whom the company employed during the 
 1. ### Data modeling :
   Fristly, we studied the data that were provided to us. Then, we worked into it to find out how we can create a bridge between those tables, to help us manipulate and understand the data better. Next, we inspected the CSV files, and then sketched an Entity Relationship Diagram of the tables. We used  "QuickDBDLinks" to easily find out the links between the tables.
 
-1. ### Data engineering:
+2. ### Data engineering:
    We used sql query to build the table schemas specifying the data types, primary keys, foreign keys, and other constraints and used import funcuion to directly import data from csv files to the database that we created. After importing csv files in the database, we got all the tables to go for further analysis.
 
-2. ### Data analysis: 
+3. ### Data analysis: 
    In this analysis portion, we mainly focused on manipulating the data in different ways using variety of  SQL functions like join and different aggregations to analysis the empoloyee information. 
     
 **We have saved the schemas, image file of ERD, resources for the analysis, and queries for the data analysis part. They are saved as:** 
