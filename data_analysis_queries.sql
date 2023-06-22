@@ -51,7 +51,7 @@ WHERE employee.emp_no IN
         WHERE departments.dept_name = 'Sales'
     )
 );
---optional(optional query for the logic from 34 to 47):
+--optiona( Alternative query for the logic from 34 to 53):
 SELECT employee.emp_no, employee.last_name, employee.first_name 
 FROM employee 
 JOIN department_emp 
